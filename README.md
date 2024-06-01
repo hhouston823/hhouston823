@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hillary.
+- 👋 Hi, I’m Hillary. I'm an aspiring Web Developer and a mom of 4 kids.
 - 👀 I’m interested in Disney World, video games, and creating things.
 - 🌱 I’m currently learning Software Engineering with Coding Temple.
 - 💞️ I’m looking to collaborate on projects.
