@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hillary. I'm an aspiring Web Developer and a mom of 4 kids.
+- 👋 Hi, I’m Hillary. I'm an aspiring Frontend Developer and a mom of 4 kids.
 - 👀 I’m interested in Disney World, video games, and creating things.
-- 🌱 I’m currently learning Software Engineering with Coding Temple.
 - 💞️ I’m looking to collaborate on projects.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I hold the CompTIA Security+ Certification, and have completed the Google Cybersecurity Professional certification.
